@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Implementation-Title: copy_of_databases_token_with_authentication
+Implementation-Version: 0.0.1-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+
